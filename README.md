@@ -3,4 +3,4 @@ For the past two years, I have been building an AI platform for systematic tradi
 
 In this repo you'll find a simple one-pager pdf describing the parts of the IP that I can make public, and a technical three-pager that goes a bit more in-depth, though is still pretty digestible.  
 
-Now that it is ready to be scaled up, I am undecided as to whether I raise a mini (<$1m USD) round, or take it in-house somewhere where much of the data & order and execution infrastructure is already built.  Your feedback is welcome and appreciated! 
+Now that it is ready to be scaled up, I am undecided as to whether I raise a mini (<$1m USD) round, or take it in-house somewhere where much of the data & order and execution infrastructure has already been built.  Your feedback is welcome and appreciated! 
