@@ -1,5 +1,5 @@
 # AI-DeFi
-I have been building an AI platform for systematic trading, capable of assessing & assembling inputs - data **and** algorithms - at a large scale.  That scale is so large, in fact, that it could be used not just as tool for a fund doing a lot of modeling, but to coordinate action over a decentralized network of data scientists, econometricians and quantitative developers.     
+I have been building an AI platform for systematic trading, capable of assessing & assembling inputs - data **and** algorithms - at a large scale.  That scale is so large, in fact, that it could be used not just as an in-house tool for a quant fund, but to coordinate action over a decentralized network of data scientists, econometricians and quantitative developers.     
 
 In this repo you'll find a simple one-pager pdf describing the parts of the IP that I can make public, and a technical three-pager that goes a bit more in-depth, though is still pretty digestible.  
 
