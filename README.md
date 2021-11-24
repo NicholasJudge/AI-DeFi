@@ -1,6 +1,6 @@
 # AI-DeFi
 
-For two years, I have been building an AI platform for systematic strategies, capable of simultaneously assessing & assembling inputs - data **and** algorithms at scale.  At some point, stuck on somethin, I pinged a grad school friend, Princeton Professor Marc Ratkovic for help.  While I fancy myself an expert on these issues, Marc unequivically is, with a bunch of awards, 1.6k+ citations, etc.  Those discussions led to Marc coming on as a cofounder.
+For two years, I have been building an AI platform for systematic strategies, capable of simultaneously assessing & assembling inputs - data **and** algorithms at scale.  At some point, I pinged a grad school friend, Princeton Professor Marc Ratkovic for help.  While I fancy myself an expert on these issues, Marc unequivically is, with a bunch of awards, 1.6k+ citations, etc.  Those discussions led to Marc coming on as a cofounder.
 
 The goal is to reduce the time and coordination costs of scientific research.  These reduced costs open the door to scaling a quant fund's forecasting capabilities; or, more ambitiously, to a decentralized systematic fund.   
 
