@@ -1,6 +1,6 @@
 # AI-DeFi
 
-It is crazy that DeFi doesn't have a decentralized systematic fund as a front-and-center goal right now.  I'm not talking about a forecasting competition like Numerai, or some degen bots.  A single systematic strategies typically has a multi-year dev cycle.  I'm talking about something capable of keeping DeFi from becoming just a software stack and a bunch of warm bodies for legacy financial institutions.
+It is crazy that DeFi doesn't have a decentralized systematic fund as a front-and-center goal right now.  I'm not talking about a forecasting competition like Numerai, or some degen bots.  I'm talking about something capable of keeping DeFi from becoming just a software stack and a bunch of warm bodies for legacy financial institutions.  A single systematic strategies typically has a multi-year dev cycle, and it's past time we get real about how a decentralized system can aggregate information up into a systematic strategy.  
 
 For two years, I and a few partners have been building an AI platform for systematic strategies, capable of simultaneously assessing & assembling inputs - data **and** algorithms at scale.  At some point along the way, I pinged a grad school friend, Princeton Professor Marc Ratkovic, for help.  While I fancy myself an expert on these issues, Marc has been cited more than a thousand times, so he definitely is.  Our talks led to Marc coming on as a cofounder.
 
