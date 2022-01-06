@@ -1,4 +1,4 @@
-# Why A Decentralized Fund?
+# Why A Decentralized Systematic Fund?
 
 The goal of a systematic (algorithmic) fund is to scale a space of well-engineered features so algorithms can turn them into price forecasts, and software can execute trades based on those forecasts.  
 
