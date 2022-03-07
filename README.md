@@ -1,6 +1,6 @@
 # AI-DeFi
 
-We have been building the code base for a decentralized systematic (algorithmic) fund.   It is built as a tool for quant devs and small quant funds, but anyone can participate.  
+We have been building the code base for a decentralized systematic (algorithmic) fund.   It is built as a tool for quant devs and small-to-medium quant funds, but anyone can participate.  
 
 The ecosystem takes in features and algorithms from anyone, and uses our AI to assemble them into forecasts, translates those forecasts into systematic strategies, and then - once we are live - uses an OMS to execute those strategies.  Participants will be rewarded in proportion to the informational value of the features they send in to the ecosystem.  There is also a lot of unique market intel that participants get by participating.  
 
