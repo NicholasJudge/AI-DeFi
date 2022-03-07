@@ -1,11 +1,9 @@
 # AI-DeFi
 
-It is crazy that DeFi doesn't have a decentralized systematic fund as a front-and-center goal right now.  I'm not talking about a forecasting competition like Numerai, or some degen bots.  I'm talking about something capable of keeping DeFi from becoming just a software stack and a bunch of warm bodies for legacy financial institutions.  A systematic strategy typically has a multi-year dev cycle, and it's past time we get real about how a decentralized system can aggregate information up into systematic strategies.  
+We have been building the code base for a decentralized systematic (algorithmic) fund.   It is built as a tool for quant devs and small quant funds, but anyone can participate.  
 
-For two years, I and a few partners have been building an AI platform for systematic strategies, capable of simultaneously assessing & assembling inputs - data **and** algorithms at scale.  At some point along the way, I pinged a grad school friend, Princeton Professor Marc Ratkovic, for help.  While I fancy myself an expert on these issues, Marc has been cited more than a thousand times, so he definitely is.  Our talks led to Marc coming on as a cofounder.
+The ecosystem takes in features and algorithms from anyone, and uses our AI to assemble them into forecasts, translates those forecasts into systematic strategies, and then - once we are live - uses an OMS to execute those strategies.  Participants will be rewarded in proportion to the informational value of the features they send in to the ecosystem.  There is also a lot of unique market intel that participants get by participating.  
 
-The goal is to reduce the time and coordination costs of scientific research.  These reduced costs open the door to scaling a quant fund's research and implementation all the way up to operating as a decentralized fund.  
+We are launching our alpha test at the end of Q1 2022.  For more information, check out www.judgeresearch.co.  
 
-Click on the files in this repo to find a super-short deck presenting the basics, a one-pager pdf describing the parts of the IP that I can make public, and a technical three-pager that goes a bit more in-depth, though is still pretty digestible.  My CV and Marc's CV is also up there, if you're curious.  
-
-Now that it is ready to be scaled up, we think it's time to raise a small round.  Your feedback is welcome and appreciated! 
+About us:  I'm a political economist who has worked in crypto full-time since 2016.  I got my PhD after writing a dissertation on a class of volatility models in 2013.  My cofounder is Marc Ratkovic, an Assistant Professor at Princeton, teaching at the politics department and Princeton's Center for Statistics and Machine Learning.
